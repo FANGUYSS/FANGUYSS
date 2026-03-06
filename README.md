@@ -6,9 +6,9 @@
 
 ## 💫 About Me
 
-* 💬 My main language is Hindi, but I also speak JavaScript sometimes.
-* 🗄️ **Database:** I can work with PostgreSQL, MongoDB, SQLite, ScyllaDB, but I prefer **MongoDB**.
-* ✨ **Preference:** pretty eyes, thick thighs.
+*   My main language is Hindi, but I also speak JavaScript sometimes.
+* **Database:** I can work with PostgreSQL, MongoDB, SQLite, ScyllaDB, but I prefer **SQLite**.
+* **Preference:** pretty eyes, thick thighs.
 
 <br />
 
@@ -26,7 +26,7 @@
 
 ## 💻 Tech Stack
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,csharp,swift,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,markdown&theme=darkmode)](https://github.com/FANGUYSS)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,csharp,erlang,dart,go,bash,json,yaml,postgresql,mysql,haskell,powershell,visualbasic,markdown&theme=darkmode)](https://github.com/FANGUYSS)
 
 <br />
 
